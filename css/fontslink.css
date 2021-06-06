@@ -1,0 +1,83 @@
+<style>
+        @font-face {
+            font-family: 'Oswald';
+            src: url('https://h3a5n2i5.stackpathcdn.com/wp-content/themes/showplatescustom/fonts/Oswald-Bold.eot');
+            src: url('https://h3a5n2i5.stackpathcdn.com/wp-content/themes/showplatescustom/fonts/Oswald-Bold.eot?#iefix') format('embedded-opentype'), url('https://h3a5n2i5.stackpathcdn.com/wp-content/themes/showplatescustom/fonts/Oswald-Bold.woff') format('woff');
+            font-style: normal;
+            font-display: block;
+        }
+        
+        @font-face {
+            font-family: 'BloomsHeadline';
+            src: url('https://h3a5n2i5.stackpathcdn.com/wp-content/themes/showplatescustom/fonts/BloomsHeadline-Regular.eot');
+            src: url('https://h3a5n2i5.stackpathcdn.com/wp-content/themes/showplatescustom/fonts/BloomsHeadline-Regular.eot?#iefix') format('embedded-opentype'), url('https://h3a5n2i5.stackpathcdn.com/wp-content/themes/showplatescustom/fonts/BloomsHeadline-Regular.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+            font-display: block;
+        }
+        
+        @font-face {
+            font-family: 'charleswright3d';
+            src: url('https://h3a5n2i5.stackpathcdn.com/wp-content/themes/showplatescustom/fonts/laser_charles_wright_3d-webfont.eot?') format('eot'), url('https://h3a5n2i5.stackpathcdn.com/wp-content/themes/showplatescustom/fonts/laser_charles_wright_3d-webfont.woff') format('woff');
+            font-display: block;
+        }
+        
+        @font-face {
+            font-family: '3dgel';
+            src: url('https://h3a5n2i5.stackpathcdn.com/wp-content/themes/showplatescustom/fonts/3D.eot?') format('eot'), url('https://h3a5n2i5.stackpathcdn.com/wp-content/themes/showplatescustom/fonts/3D.woff') format('woff');
+            font-display: block;
+        }
+        
+        @font-face {
+            font-family: 'charleswrightinline';
+            src: url('https://h3a5n2i5.stackpathcdn.com/wp-content/themes/showplatescustom/fonts/laser_charles_wright_inline-webfont.eot?') format('eot'), url('https://h3a5n2i5.stackpathcdn.com/wp-content/themes/showplatescustom/fonts/laser_charles_wright_inline-webfont.woff') format('woff');
+            font-display: block;
+        }
+        
+        @font-face {
+            font-family: 'charleswright';
+            src: url('https://h3a5n2i5.stackpathcdn.com/wp-content/themes/showplatescustom/fonts/laser_charles_wright-webfont.eot?') format('eot'), url('https://h3a5n2i5.stackpathcdn.com/wp-content/themes/showplatescustom/fonts/laser_charles_wright-webfont.woff') format('woff');
+            font-display: block;
+        }
+        
+        @font-face {
+            font-family: 'charleswrightbike';
+            src: url('https://h3a5n2i5.stackpathcdn.com/wp-content/themes/showplatescustom/fonts/bikefont.eot?') format('eot'), url('https://h3a5n2i5.stackpathcdn.com/wp-content/themes/showplatescustom/fonts/bikefont.woff') format('woff'), url('https://h3a5n2i5.stackpathcdn.com/wp-content/themes/showplatescustom/fonts/bikefont.svg') format('truetype');
+        }
+        
+        @media only screen and (max-width: 899px) and (min-width: 325px) {
+            .dropdown-toggle {
+                background-image: url('https://h3a5n2i5.stackpathcdn.com/wp-content/uploads/downarrows3.png') !important;
+                background-color: transparent !important;
+                border: 0 !important;
+                -webkit-box-shadow: none !important;
+                box-shadow: none !important;
+                color: #222 !important;
+                display: block !important;
+                font-size: 16px !important;
+                right: 1em !important;
+                line-height: 1.5 !important;
+                width: 20px !important;
+                height: 19px !important;
+                position: absolute;
+                text-shadow: none !important;
+                top: 0 !important;
+                margin-top: 5px !important;
+                margin-left: 10px !important;
+            }
+            .navigation-top {
+                width: 20% !important;
+                margin-right: 10px;
+            }
+            .main-navigation li ul li a {
+                background: #efefef !important;
+                border-bottom: 1px solid #ededed !important;
+                display: block !important;
+                line-height: 2.181818182 !important;
+                padding: 8px 10px !important;
+                padding: 0.571428571rem 0.714285714rem !important;
+                width: 100% !important;
+                white-space: normal !important;
+            }
+        }
+    </style>
